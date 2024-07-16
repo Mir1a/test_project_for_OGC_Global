@@ -1,4 +1,4 @@
 .env
 .env-non-dev.
 venv
-.vercel
+.idea
